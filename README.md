@@ -26,7 +26,3 @@ This project uses Machine Learning and Deep Learning concepts to predict the clo
 - 'adam' optimizer (a stochastic gradient descent method) is used to decrease the loss by adjusting the weights in the network.
 - Root Mean Square Error (rmse) is used as a loss function to evaluate the model performance.
 - The model is compiled with the parameters above and then trained for 1 epoch.
-
-
-### Final prediction
-- Matplotlib library is used to plot the predicted closing stock prices against the actual prices.
